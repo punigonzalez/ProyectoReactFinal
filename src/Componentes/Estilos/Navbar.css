@@ -1,0 +1,33 @@
+nav {
+    background-color: black;
+    display: flex;
+  }
+
+  
+  ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    justify-content: left;
+
+  }
+  
+  li {
+    display: inline-block;
+    margin: 15px 20px 10px 20px;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    font-weight:lighter;
+    font-size: 20px;
+    
+  }
+
+  .carrito{
+    height: 50px;
+    margin:5px 0 5px 74%;
+    display: flex;
+    
+  }
